@@ -1,48 +1,53 @@
-<h1 align="center">Antonio Manuel Nuñez Campallo</h1>
-<h3 align="center">Técnico de Sistemas y Redes | Especialista en Ciberseguridad</h3>
+## Hola, soy Antonio
 
-<p align="center">
-  Profesional de la infraestructura de red, el software de código abierto y la seguridad informática. Enfocado en el aprendizaje continuo y la excelencia técnica, combino mi formación especializada con la investigación autodidacta para diseñar, implementar y asegurar entornos tecnológicos eficientes.
-</p>
+Técnico de sistemas y redes en Sevilla. Estudio ASIR y el Máster en Ciberseguridad e IA de Evolve, y el resto del tiempo lo paso montando y rompiendo cosas en mi homelab.
 
----
+Me interesa sobre todo la parte defensiva: saber qué pasa en una red, detectar lo que no debería estar ahí y automatizar lo repetitivo para no tener que hacerlo a mano dos veces.
 
-### 🔭 Proyectos y Enfoque Actual
-
-- 🛡️ **Proyecto PHANTOM (Speculum-AI):** Desarrollo de un entorno de seguridad de red centrado en la implementación de honeypots y detección de amenazas impulsada por Inteligencia Artificial.
-- ⚙️ **Infraestructura y Virtualización:** Administración de un HomeLab avanzado (TrueNAS SCALE, Oracle Cloud ARM, Tailscale). Utilizo este servidor central junto con mi equipo Acer Nitro V15 para el despliegue y ensayo de laboratorios de virtualización.
-- 💻 **Diagnóstico y Benchmarking:** Creación de scripts automatizados en Python para el inventario de hardware y la realización de diagnósticos de rendimiento basados en valoraciones reales y personalizadas, superando las métricas de los tiers globalizados.
-- 🌐 **Despliegues Web:** Gestión de VPS y organización mediante metodologías ágiles (Kanban) para proyectos de mantenimiento industrial e infraestructuras locales.
-- 🌱 **Formación Académica:** Cursando el Grado Superior en Administración de Sistemas Informáticos y Redes (ASIR). A partir de octubre, comienzo el **Máster en Ciberseguridad e IA** impartido por Evolve.
-
-### 🛠️ Competencias Técnicas
-
-**Sistemas y Redes:**
-- Administración de Windows Server y Active Directory (gestión de usuarios y políticas de seguridad).
-- Administración de entornos Linux y gestión de terminal.
-- Configuración de Cisco Routers, Firewalls y VPNs.
-- **Hardware:** Mantenimiento preventivo y correctivo, respaldado por diagnóstico avanzado con herramientas de software de desarrollo propio.
-
-**Desarrollo y Herramientas:**
-- **Lenguajes de Programación:** Python, C++ (Avanzado), Bash, PowerShell, HTML/CSS, SQL.
-- **Gestión del Conocimiento y Productividad:** Obsidian (Excalidraw, integración de modelos locales con Ollama).
-- **CMS y Plataformas Web:** WordPress, Moodle, Drupal.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,c,cpp,python,bash,html,css,mysql,wordpress" alt="Tech Stack" />
-</p>
-
-### 🏆 Certificaciones Destacadas
-
-- **Cisco Certified Support Technician (CCST) Cybersecurity** - *Cisco Systems*
-- **Junior Cybersecurity Analyst Career Path** - *Cisco Networking Academy*
-- **Linux Essentials** - *Cisco Networking Academy & NDG*
-- **Programación Avanzada: C++ y Python** - *Cisco / Python Institute*
+**Busco** prácticas o un puesto a media jornada / por proyecto en sistemas, redes o ciberseguridad, compatible con los estudios.
 
 ---
 
-### 📫 Contacto y Enlaces de Interés:
-- 📧 **Email:** anunezcampallo@gmail.com
-- 📍 **Ubicación:** Sevilla, España
-- 🔗 **LinkedIn:** [Perfil de Antonio Manuel](https://www.linkedin.com/in/antonio-manuel-nu%C3%B1ez-campallo/)
-- 💼 Disponibilidad: Disponibilidad parcial o por proyectos. Abierto a oportunidades profesionales que sean compatibles con mi formación académica (ASIR y Máster).
+### Proyectos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [Honeypot](https://github.com/antonio101105/Honeypot) | Honeypot SSH de baja interacción. Simula un login de Linux y registra IP, usuario y contraseña de cada intento en tiempo real. Soporta varias conexiones a la vez. | Bash, socat |
+| [Panel de control para Windows](https://github.com/antonio101105/Panel-de-control-para-Windows) | Dashboard web para ver CPU, RAM y discos en tiempo real y lanzar una auditoría básica de seguridad del equipo. | Python, Flask, psutil, PowerShell |
+| [bash](https://github.com/antonio101105/bash) | Scripts de administración Linux: inventario del sistema, copias de seguridad automáticas y menús interactivos. | Bash |
+| [Pomodoro Ultimate](https://github.com/antonio101105/Pomodoro-Ultimate) | Temporizador Pomodoro de escritorio para Windows, sin distracciones. | PowerShell |
+| [ASIR](https://github.com/antonio101105/ASIR) | Mis apuntes del ciclo, por si le sirven a alguien. | HTML |
+
+Ahora mismo estoy con **PHANTOM**, un entorno de honeypots con detección de amenazas apoyada en IA (todavía no es público).
+
+### Homelab
+
+Lo uso para practicar lo que luego me piden en clase o en el trabajo:
+
+- **TrueNAS SCALE** como servidor central (almacenamiento y servicios)
+- **Oracle Cloud** (ARM) para servicios expuestos
+- **Tailscale** para unir todo sin abrir puertos
+- VPS propios para despliegues web, con Nginx Proxy Manager
+
+### Con qué trabajo
+
+- **Sistemas:** Windows Server, Active Directory y GPOs, Linux
+- **Redes:** routers y switches Cisco, firewalls, VPN
+- **Scripting:** Python, Bash, PowerShell. También C++ y SQL
+- **Web:** WordPress, Moodle, Drupal
+- **Hardware:** montaje, mantenimiento y diagnóstico
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,cpp,mysql,nginx,wordpress" alt="Tecnologías" />
+</p>
+
+### Certificaciones
+
+- Cisco Certified Support Technician (CCST) Cybersecurity
+- Junior Cybersecurity Analyst Career Path · Cisco Networking Academy
+- Linux Essentials · Cisco Networking Academy / NDG
+- C++ y Python · Cisco Networking Academy / Python Institute
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/antonio-manuel-nu%C3%B1ez-campallo/) · anunezcampallo@gmail.com · Sevilla
