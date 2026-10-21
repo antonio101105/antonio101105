@@ -24,7 +24,7 @@ Ahora mismo estoy con **PHANTOM**, un entorno de honeypots con detección de ame
 
 Lo uso para practicar lo que luego me piden en clase o en el trabajo:
 
-- **TrueNAS SCALE** como servidor central (almacenamiento y servicios)
+- **Proxmox VE** como servidor central (máquinas virtuales y contenedores LXC)
 - **Oracle Cloud** (ARM) para servicios expuestos
 - **Tailscale** para unir todo sin abrir puertos
 - VPS propios para despliegues web, con Nginx Proxy Manager
