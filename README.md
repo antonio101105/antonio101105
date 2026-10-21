@@ -33,13 +33,7 @@ Me interesa sobre todo la parte defensiva: saber qué pasa en una red, detectar 
   <a href="https://github.com/antonio101105/Pomodoro-Ultimate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonio101105&repo=Pomodoro-Ultimate&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pomodoro Ultimate" /></a>
 </p>
 
-| Proyecto | Qué hace |
-|---|---|
-| **Honeypot** | Honeypot SSH de baja interacción en Bash + socat. Simula un login de Linux y registra IP, usuario y contraseña de cada intento en tiempo real, con varias conexiones a la vez. |
-| **Panel de control para Windows** | Dashboard en Flask + psutil para ver CPU, RAM y discos en tiempo real y lanzar una auditoría básica de seguridad vía PowerShell. |
-| **bash** | Scripts de administración Linux: inventario del sistema, copias de seguridad automáticas y menús interactivos. |
-| **Pomodoro Ultimate** | Temporizador Pomodoro de escritorio para Windows, sin distracciones. |
-| [**ASIR**](https://github.com/antonio101105/ASIR) | Mis apuntes del ciclo, por si le sirven a alguien. |
+También están mis [apuntes de ASIR](https://github.com/antonio101105/ASIR), por si le sirven a alguien.
 
 ---
 
@@ -48,7 +42,7 @@ Me interesa sobre todo la parte defensiva: saber qué pasa en una red, detectar 
 Lo uso para practicar lo que luego me piden en clase o en el trabajo.
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph Casa
         PVE["Proxmox VE<br/>VMs + LXC"]
         PC["Portátil de trabajo"]
